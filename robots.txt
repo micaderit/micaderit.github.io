@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://micaderit.github.io/sitemap.html.gz
+Sitemap: https://micaderit.github.io/app/sitemap.html.gz
+Sitemap: https://micaderit.github.io/assets/sitemap.html.gz
+Sitemap: https://micaderit.github.io/css/sitemap.html.gz
+Sitemap: https://micaderit.github.io/includes/sitemap.html.gz
+Sitemap: https://micaderit.github.io/item/sitemap.html.gz
+Sitemap: https://micaderit.github.io/src/sitemap.html.gz
